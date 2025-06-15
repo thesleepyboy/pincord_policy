@@ -1,1 +1,2 @@
-# pincord_policy
+## Pincord policy
+Current Pincord Bot privacy policy
